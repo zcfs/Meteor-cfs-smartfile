@@ -1,4 +1,4 @@
-cfs-smartfile
+cfs-smartfile WIP!
 =========================
 
 NOTE: This package is under active development right now (2014-3-1). It has
