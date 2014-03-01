@@ -24,7 +24,7 @@ FS.Store.SmartFile = function(name, options) {
 
   return new FS.StorageAdapter(name, options, {
 
-    typeName: 'storage.gridfs',
+    typeName: 'storage.smartfile',
 
     get: function(fileKey, callback) {
       // var self = this;
