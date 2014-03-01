@@ -1,0 +1,14 @@
+{
+	"name": "cfs-smartfile",
+	"description": "SmartFile storage adapter for CollectionFS",
+	"homepage": "https://github.com/CollectionFS/Meteor-cfs-smartfile",
+	"author": "kevohagan(https://github.com/kevohagan)",
+	"version": "0.0.1",
+	"git": "https://github.com/CollectionFS/Meteor-cfs-smartfile.git",
+	"packages": {
+		"cfs-storage-adapter": {
+			"git": "https://github.com/CollectionFS/Meteor-cfs-storage-adapter.git",
+			"branch": "master"
+		}
+	}
+}
