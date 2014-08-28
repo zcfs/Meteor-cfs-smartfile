@@ -1,5 +1,5 @@
 Package.describe({
-  name: "cfs-smartfile",
+  version: '0.0.0',
   summary: "SmartFile storage adapter for CollectionFS"
 });
 
