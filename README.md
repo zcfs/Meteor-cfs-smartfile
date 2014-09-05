@@ -1,4 +1,4 @@
-cfs-smartfile WIP!
+cfs:smartfile WIP!
 =========================
 
 NOTE: This package is under active development right now (2014-3-1). It has
@@ -14,7 +14,7 @@ use this storage adapter, file data is stored on the SmartFile servers.
 Install using Meteorite. When in a Meteor app directory, enter:
 
 ```
-$ mrt add cfs-smartfile
+$ meteor add cfs:smartfile
 ```
 
 ## Usage
