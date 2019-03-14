@@ -1,6 +1,13 @@
 cfs:smartfile WIP!
 =========================
 
+~~Looking for maintainers - please reach out!~~
+This package is to be archived due to inability to find contributors, thanks to everyone who helped make it possible.
+
+**If you're looking for an alternative, we highly recommend [Meteor-Files](https://github.com/VeliovGroup/Meteor-Files) by [VeliovGroup](https://github.com/VeliovGroup)**
+
+---
+
 NOTE: This package is under active development right now (2014-3-1). It has
 bugs and the API may continue to change. Please help test it and fix bugs,
 but don't use in production yet.
