@@ -1,4 +1,4 @@
-cfs:smartfile WIP!
+zcfs:smartfile WIP!
 =========================
 
 ~~Looking for maintainers - please reach out!~~
@@ -13,7 +13,7 @@ bugs and the API may continue to change. Please help test it and fix bugs,
 but don't use in production yet.
 
 A Meteor package that adds smartfile storage for
-[CollectionFS](https://github.com/CollectionFS/Meteor-CollectionFS). When you
+[CollectionFS](https://github.com/zcfs/Meteor-CollectionFS). When you
 use this storage adapter, file data is stored on the SmartFile servers.
 
 ## Installation
@@ -21,7 +21,7 @@ use this storage adapter, file data is stored on the SmartFile servers.
 Install using Meteorite. When in a Meteor app directory, enter:
 
 ```
-$ meteor add cfs:smartfile
+$ meteor add zcfs:smartfile
 ```
 
 ## Usage
@@ -37,7 +37,7 @@ Images = new FS.Collection("images", {
 });
 ```
 
-Refer to the [CollectionFS](https://github.com/CollectionFS/Meteor-CollectionFS)
+Refer to the [CollectionFS](https://github.com/zcfs/Meteor-CollectionFS)
 package documentation for more information.
 
 ## Notes
@@ -46,6 +46,6 @@ A SmartFile store does not currently support the `sync` option.
 
 ## API
 
-[For Users](https://github.com/CollectionFS/Meteor-cfs-smartfile/blob/master/api.md)
+[For Users](https://github.com/zcfs/Meteor-cfs-smartfile/blob/master/api.md)
 
-[For Contributors](https://github.com/CollectionFS/Meteor-cfs-smartfile/blob/master/internal.api.md)
+[For Contributors](https://github.com/zcfs/Meteor-cfs-smartfile/blob/master/internal.api.md)
